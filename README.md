@@ -8,10 +8,7 @@ git clone "https://github.com/programmer20000/parser_good_fon_ru.git"
 ````
 
 
-2.  Creating virtual environment and install requirements
- * [creating virtual environment on windows](https://www.geeksforgeeks.org/creating-python-virtual-environment-windows-linux/)
- * [creating virtual environment on linux](https://www.geeksforgeeks.org/creating-python-virtual-environment-windows-linux/)
- * [install requirements](https://www.geeksforgeeks.org/how-to-install-python-packages-with-requirements-txt/)
+2. Creating virtual environment and install requirements [Live Demo](https://mihaiapostol14.github.io/make-python-virtual-environment-live-demo/)
 
 3. Open config directory  and create inside ``.env`` file and written inside `` USER_AGENT='Firefox user agent'``
 
